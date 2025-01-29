@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, meus amigos 👋
 
 Sou Andry Alciney, iniciando programação Front End, estou aprimorando os conhecimentos em:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
